@@ -1,1 +1,4 @@
-console.info("texting index.js");
+let api = "";
+function keranjang() {}
+
+function beli() {}
